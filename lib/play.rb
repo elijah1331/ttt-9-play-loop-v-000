@@ -42,4 +42,3 @@ def play(board)
     number += 1
   end
 end
-
